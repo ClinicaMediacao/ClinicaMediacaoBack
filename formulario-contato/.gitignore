@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependências específicas de IDEs/Editors
+.vscode/
+.idea/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados
+*.sqlite
+*.db
+
+# Diretórios de build
+dist/
+build/
+
+# Outros arquivos específicos de sistemas operacionais
+.DS_Store   # macOS
+Thumbs.db   # Windows
